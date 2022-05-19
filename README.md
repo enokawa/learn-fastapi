@@ -3,5 +3,5 @@
 ## Usage
 
 ```sh
-$ docker compose run -d
+$ docker compose up -d
 ```
